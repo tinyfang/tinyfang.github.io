@@ -1,0 +1,46 @@
+# Basic
+title: TINY FANG
+subtitle: 万物之中,希望至美,至美之物,永不凋零
+welcome_message: 
+description: Life@Chongqing Work@TINY
+creator: <a href="http://www.jikexingqiu.com">@极客星球</a>
+
+url: "http://tinyfang.github.io"
+
+permalink: /:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: gray-lightest
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客
+    description: 访问博客
+
+# Navigation buttons in the front page.
+nav:
+    - {title: 关于, description: 了解我, url: '/about'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: felics
+    # duoshuo: 
+    
+# Social
+social:
+    weibo: tinyfang
+    github: tinyfang
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host

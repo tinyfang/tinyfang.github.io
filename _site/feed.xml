@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TINY FANG</title>
+    <description>Life@Chongqing Work@TINY</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 25 Jun 2017 11:47:11 +0800</pubDate>
+    <lastBuildDate>Sun, 25 Jun 2017 11:47:11 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>About Me</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;运营过产品，策划过活动，写过文案，创过业，喜欢阅读、写作和摄影。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;你可以在以下地方找到我&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;App&lt;/th&gt;
+      &lt;th&gt;URL&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;email&lt;/td&gt;
+      &lt;td&gt;tinyfang(a)outlook.com&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;LinkedIn&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.linkedin.com/in/tinyfang/&quot;&gt;https://www.linkedin.com/in/tinyfang/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Twitter&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/tinyfangfang&quot;&gt;https://twitter.com/tinyfangfang/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Instagram&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.instagram.com/tinyfangfang/&quot;&gt;https://www.instagram.com/tinyfangfang/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Behance&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.behance.net/tinyfang/&quot;&gt;https://www.behance.net/tinyfang/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;知乎&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.zhihu.com/people/tinyfang/&quot;&gt;https://www.zhihu.com/people/tinyfang/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Sun, 25 Jun 2017 09:30:28 +0800</pubDate>
+        <link>http://localhost:4000/about/</link>
+        <guid isPermaLink="true">http://localhost:4000/about/</guid>
+        
+        <category>ME</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
